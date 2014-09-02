@@ -1,6 +1,14 @@
 # Make a Digital Landscape of Spinning Flowers & Pinwheels
 
-## Step 1: Connect Pibrella to Raspberry Pi GPIO pins
+## Step 1: Set up your Raspberry Pi to use Pibrella
+
+1. The Pibrella fits onto the GPIO pins on your Raspberry Pi. Make sure that your Pi is turned off before pushing it onto the GPIO pins.
+1. Then connect your micro USB power supply to the Pibrella board, and your Raspberry Pi will boot. 
+
+  *Note:To program your Pibrella you can use [Scratch GPIO](http://scratchgpio.github.io) or Python. In this tutorial we will be using Python.* 
+
+1. To program your Pibrella using Python, download and install the Pibrella Python Library by opening an LXTerminal window and first making sure that your software *Raspbian* is up to date. 
+1. Once you are satisfied that you have all the files you need, you can turn off your Raspberry Pi by double clicking the `shutdown` desktop icon or by typing `sudo poweroff` on the command line. 
 
 ## Step 2: Prepare your motor and wheel
 It is likely that your motors and wheels have been supplied seperately and therefore need to be connected in order for you to use them. *Note: You may need to ask a responsible adult for some help in this step.*
@@ -22,6 +30,7 @@ Now that you have constructed your motor it is time to decorate it. You can do t
 1. You could get really creative with some wire to add insects like bumble bees around the outside! Remember the wheel is going to spin so how can you take advantage of this in a creative way?
 
 ## Step 4: Write code to make the motor turn
+Once the wheel and motors have been assembled and attached to the Pibrella it is time to program them to do what they were built for... turning!
 
 1. From the command line for an LXTerminal window type `nano spinning-wheel.py` and press **Enter** on the keyboard. This will open a blank text editor file in which you can type your code.
 1. Begin your code by importing the pibrella python library needed to control the motor by typing 
@@ -52,4 +61,4 @@ Now that you have constructed your motor it is time to decorate it. You can do t
 The pibrella is capable of more than just outputting current to a motor in order for it to spin. It also includes a red input button. Let's use it to start your spinning flower or pinwheel program when you want it to.
 
 1. From the command line or in an LXTerminal window, open your sinning-wheel.py python program by typing `nano spinning-wheel.py` and pressing **Enter**.
-1. 
+1.
