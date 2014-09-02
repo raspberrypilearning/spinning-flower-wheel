@@ -10,10 +10,10 @@ As well as a Raspberry Pi with an SD card loaded with Raspbian, you'll also need
 - A geared motor
 - A wheel 
 - Jumper Cables
-- A straw
-- Paper
+- A paper cup
+- Paper to create flowers or pin wheels from
 - Scissors
-- Pins
+- Pins and blue tac
 
 ### Software
 - [Pibrella Python Library](http://pibrella.com/#setup)
