@@ -61,4 +61,20 @@ Once the wheel and motors have been assembled and attached to the Pibrella it is
 The pibrella is capable of more than just outputting current to a motor in order for it to spin. It also includes a red input button. Let's use it to start your spinning flower or pinwheel program when you want it to.
 
 1. From the command line or in an LXTerminal window, open your sinning-wheel.py python program by typing `nano spinning-wheel.py` and pressing **Enter**.
-1.
+1. Navigate using the arrow keys on your keyboard to just above `pibrella.output.e.on()` and add the following lines, note that indentation is important here. If you are using nano ensure than you press the space bar 4 times leaving a 4 space indent:
+
+  ```python
+  import pibrella
+  import time
+  
+  while True:
+      if pibrella.button.read():
+          pibrella.output.e.on()
+          time.sleep(10)
+          pibrella.output.e.off()
+          break
+  ```
+1. Press **CTRL** and **X** followed by **Y** to save the amended code file.
+1. To run the new program type `sudo python spinning-wheel.py` and press enter.
+ 
+ Nothing will happen until you press the red button on the pibrella board.
