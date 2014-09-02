@@ -16,6 +16,11 @@ It is likely that your motors and wheels have been supplied seperately and there
 ## Step 3: Deconrate your wheel with a flower or pinwheel
 Now that you have constructed your motor it is time to decorate it. You can do this by cutting out flower shaps from different coloured paper or felt. Alternatively you could make an [origami pinwheel out of paper](http://www.wikihow.com/Make-an-Origami-Pinwheel).
 
+1. Place a ball of blu-tack in the centre of the wheel.
+1. Add your flower or pinwheel on top of the blu-tack, ensuring that it is in the middle. 
+1. Secure the paper in place with a push pin. 
+1. You could get really creative with some wire to add insects like bumble bees around the outside! Remember the wheel is going to spin so how can you take advantage of this in a creative way?
+
 ## Step 4: Write code to make the motor turn
 
 1. From the command line for an LXTerminal window type `nano spinning-wheel.py` and press **Enter** on the keyboard. This will open a blank text editor file in which you can type your code.
@@ -40,3 +45,11 @@ Now that you have constructed your motor it is time to decorate it. You can do t
   
 1. Press **CTRL** and **X** on the keyboard, followed by **Y** to save your code.
 1. Run your program by typing `sudo python spinning-wheel.py`.
+
+    Your program should turn the motor on which will spin the shaft conected to the wheel for 10 seconds. How could you make it spin for longer?
+    
+## Step 5: Using a button to start your spinning program
+The pibrella is capable of more than just outputting current to a motor in order for it to spin. It also includes a red input button. Let's use it to start your spinning flower or pinwheel program when you want it to.
+
+1. From the command line or in an LXTerminal window, open your sinning-wheel.py python program by typing `nano spinning-wheel.py` and pressing **Enter**.
+1. 
