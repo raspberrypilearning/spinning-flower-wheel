@@ -7,13 +7,15 @@ As well as a Raspberry Pi with an SD card loaded with Raspbian, you'll also need
 
 ### Hardware
 - [A Pibrella](http://www.pibrella.com)
-- A geared motor
-- A wheel 
-- Jumper Cables
+- A geared motor (we use 12V 80RPM geared motors from purchased from Amazon)
+- A wheel (we have used foam model aircraft wheels purchased from Amazon)
+- [Male to male Jumper Cables](http://shop.pimoroni.com/products/jumper-jerky)
 - A paper cup
-- Paper to create flowers or pin wheels from
+- Coloured Paper to create flowers or pin wheels from
 - Scissors
-- Pins and blue tac
+- Glue
+- Blu tac
+- Push pins
 
 ### Software
 - [Pibrella Python Library](http://pibrella.com/#setup)
