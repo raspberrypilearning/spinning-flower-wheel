@@ -11,9 +11,12 @@ It is likely that your motors and wheels have been supplied seperately and there
 1. Next, take two male to male jumper cables and snip off one end. Using some wire strippers expose a small amount of the cable underneath.
 1. Solder the wire ends to the opposite end of the motor to the wheel, where there are two small metal prongs. 
 1. Once the solder has hardened, take a paper or plastic cup and using some scissors or a sharp pencil make a hole in the middle, just a little smaller than the size of the motor. 
-1. Push your motor into the hole in the cup, so that the wheel sticks out of the buttom, and the jumper wires come out of the top. 1. Turn your cup upside down on the table and connect the two jumper wires to your pibrella board.
+1. Push your motor into the hole in the cup, so that the wheel sticks out of the buttom, and the jumper wires come out of the top. 1. Turn your cup upside down on the table and connect the two jumper wires to your pibrella board. Place on the male connectors into **Output E** and the other adjacent to it in the ground bank of row **E**.
 
-## Step 3: Write code to make the motor turn
+## Step 3: Deconrate your wheel with a flower or pinwheel
+Now that you have constructed your motor it is time to decorate it. You can do this by cutting out flower shaps from different coloured paper or felt. Alternatively you could make an [origami pinwheel out of paper](http://www.wikihow.com/Make-an-Origami-Pinwheel).
+
+## Step 4: Write code to make the motor turn
 
 1. From the command line for an LXTerminal window type `nano spinning-wheel.py` and press **Enter** on the keyboard. This will open a blank text editor file in which you can type your code.
 1. Begin your code by importing the pibrella python library needed to control the motor by typing 
