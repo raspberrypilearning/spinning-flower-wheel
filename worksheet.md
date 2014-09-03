@@ -13,6 +13,8 @@
 ## Step 2: Prepare your motor and wheel
 It is likely that your motors and wheels have been supplied seperately and therefore need to be connected in order for you to use them. *Note: You may need to ask a responsible adult for some help in this step.*
 
+ ![](images/hardware.JPG)
+
 1. Place the foam wheel on a desk, ensuring that you have placed some cardboard or newspaper unerneath to protect the table.
 1. Put a small amount of strong glue into the hole in the centre of the wheel.
 1. Push the shaft of your motor into the hole, ensuring that you do not push it all the way to the bottom (half way should do) and hold it as straight as possible whilst the glue sets. 
