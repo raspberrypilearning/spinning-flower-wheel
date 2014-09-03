@@ -21,7 +21,9 @@ It is likely that your motors and wheels have been supplied seperately and there
 1. Once the solder has hardened, take a paper or plastic cup and using some scissors or a sharp pencil make a hole in the middle, just a little smaller than the size of the motor. 
 1. Push your motor into the hole in the cup, so that the wheel sticks out of the buttom, and the jumper wires come out of the top. 1. Turn your cup upside down on the table and connect the two jumper wires to your pibrella board. Place on the male connectors into **Output E** and the other adjacent to it in the ground bank of row **E**.
 
-## Step 3: Deconrate your wheel with a flower or pinwheel
+ ![](images/setup.JPG)
+
+## Step 3: Decorate your wheel with a flower or pinwheel
 Now that you have constructed your motor it is time to decorate it. You can do this by cutting out flower shaps from different coloured paper or felt. Alternatively you could make an [origami pinwheel out of paper](http://www.wikihow.com/Make-an-Origami-Pinwheel).
 
 1. Place a ball of blu-tack in the centre of the wheel.
