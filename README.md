@@ -14,7 +14,7 @@ As well as a Raspberry Pi with an SD card loaded with Raspbian, you'll also need
 - Coloured Paper to create flowers or pin wheels from
 - Scissors
 - Glue
-- Blu tac
+- Blu tack
 - Push pins
 
 ### Software
