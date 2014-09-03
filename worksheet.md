@@ -31,6 +31,8 @@ Now that you have constructed your motor it is time to decorate it. You can do t
 1. Secure the paper in place with a push pin. 
 1. You could get really creative with some wire to add insects like bumble bees around the outside! Remember the wheel is going to spin so how can you take advantage of this in a creative way?
 
+ ![](images/spinning-flower.JPG)
+
 ## Step 4: Write code to make the motor turn
 Once the wheel and motors have been assembled and attached to the Pibrella it is time to program them to do what they were built for... turning!
 
