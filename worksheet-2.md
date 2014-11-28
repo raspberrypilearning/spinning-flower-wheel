@@ -1,2 +1,0 @@
-# Spinning Advanced
-
