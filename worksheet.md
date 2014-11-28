@@ -83,4 +83,4 @@ The pibrella is capable of more than just outputting current to a motor in order
 1. Press **CTRL** and **X** followed by **Y** to save the amended code file.
 1. To run the new program type `sudo python spinning-wheel.py` and press enter.
  
- Nothing will happen until you press the red button on the pibrella board.
+ Nothing will happen until you press the red button on the pibrella board. So give it a go, press that big red button!
