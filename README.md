@@ -30,7 +30,7 @@ For more information on checking you have these packages installed, and how to i
 You will need to follow the steps in the worksheet below.
 
 - [worksheet](worksheet.md)
-- (Optional) Final version of Python code [spinning-flower.py]()
+- (Optional) Final version of Python code [spinning-flower.py](spinning-flower.py)
 
 ## Licence
 
