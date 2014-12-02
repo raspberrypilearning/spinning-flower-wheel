@@ -89,3 +89,9 @@ The Pibrella is capable of more than just outputting current to a motor in order
 1. To run the new program, type `sudo python spinning-wheel.py` and press **Enter**.
  
  Nothing will happen until you press the red button on the Pibrella board. So give it a go; press that big red button!
+
+## What's next?
+- Adapt your code in order to slow the speed of the motors spinning
+- Add more motors to your pibrella
+- Watch [Make a Digital Garden with Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) for more ideas
+- Use four motors to build a robot.
