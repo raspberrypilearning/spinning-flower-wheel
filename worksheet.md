@@ -91,7 +91,8 @@ The Pibrella is capable of more than just outputting current to a motor in order
  Nothing will happen until you press the red button on the Pibrella board. So give it a go; press that big red button!
 
 ## What's next?
-- Adapt your code in order to slow the speed of the motors spinning
-- Add more motors to your pibrella
+
+- Adapt your code in order to slow the speed of the motors
+- Add more motors to your Pibrella
 - Watch [Make a Digital Garden with Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) for more ideas
-- Use four motors to build a robot.
+- Use four motors to build a robot
