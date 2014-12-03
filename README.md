@@ -1,5 +1,7 @@
 # Make a digital landscape of spinning flowers & pinwheels
 
+![](images/HOC_Logo_200px.png)
+
 Create a digital landscape with your Raspberry Pi by making an electronic garden of spinning flowers, pinwheels, and even some bees! Who said gardening was difficult? Check out [this video](https://www.youtube.com/watch?v=4Fs7y7gZIag) to help you with this tutorial.
 
 ## Requirements
