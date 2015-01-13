@@ -1,4 +1,4 @@
-# Make a digital landscape of spinning flowers & pinwheels
+# Spinning Flower Wheel
 
 ## Set up your Raspberry Pi to use Pibrella
 
