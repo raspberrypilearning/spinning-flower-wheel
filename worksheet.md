@@ -1,16 +1,12 @@
 # Spinning Flower Wheel
 
-## Set up your Raspberry Pi to use Pibrella
+## Attach the Pibrella to your Raspberry Pi
 
 1. The Pibrella fits onto the GPIO pins on your Raspberry Pi. Before pushing it onto the GPIO pins, make sure that your Pi is turned off.
 
 1. Then connect your micro USB power supply to the Pibrella board, and your Raspberry Pi will boot.
 
     *Note: To program your Pibrella, you can use [Scratch GPIO](http://scratchgpio.github.io) or Python. In this tutorial we will be using Python.*
-
-1. To program your Pibrella using Python, download and install the Pibrella Python Library by opening an LXTerminal window. First, make sure that *Raspbian* is up to date.
-
-1. Once you are satisfied that you have all the files you need, you can turn off your Raspberry Pi by double-clicking the `shutdown` desktop icon or by typing `sudo poweroff` on the command line.
 
 ## Prepare your motor and wheel
 
