@@ -103,7 +103,7 @@ The Pibrella is capable of more than just outputting current to a motor in order
 
 1. To run the new program, type `sudo python3 spinning-wheel.py` and press **Enter**.
 
-    Nothing will happen until you press the red button on the Pibrella board. So give it a go; press that big red button!
+    Nothing will happen until you press the red button on the Pibrella board. So give it a go: press that big red button!
 
 ## What next?
 
