@@ -6,3 +6,4 @@ You'll also need:
 - Glue
 - Blu Tack
 - Push pins
+- Soldering iron and solder
