@@ -6,11 +6,11 @@
 
 1. Connect your micro USB power supply to the Pibrella board, and your Raspberry Pi will boot.
 
-    *Note: To program your Pibrella, you can use [Scratch GPIO](http://cymplecy.github.io/scratch_gpio/) or Python. In this tutorial we will be using Python.*
+Note: To program your Pibrella, you can use [Scratch GPIO](http://cymplecy.github.io/scratch_gpio/) or Python. In this tutorial we will be using Python.
 
 ## Prepare your motor and wheel
 
-It is likely that your motors and wheels have been supplied separately and will therefore need to be connected in order for you to use them. *Note: You may need to ask a responsible adult for some help in this step.*
+It is likely that your motors and wheels have been supplied separately and will therefore need to be connected in order for you to use them. Note: You may need to ask a responsible adult for some help in this step.
 
   ![](images/hardware.JPG)
 
