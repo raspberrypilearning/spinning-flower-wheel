@@ -1,12 +1,8 @@
 - name: Pibrella
   img: pibrella
-  url: http://www.pibrella.com/
 - name: 1 x Geared motor (12V 80RPM)
   img: motor
-  url: http://www.amazon.co.uk/0-06A-80RPM-Electric-Reducing-Geared/dp/B00S4U6M5A/
 - name: 2 x Male-to-male jumper leads
   img: jumper-male-to-male
-  url: http://shop.pimoroni.com/products/jumper-jerky
 - name: 1 x Foam wheel
   img: foam-wheel
-  url: http://www.amazon.co.uk/RCECHO-Airplane-Wheels-Version-Edition/dp/B00LS9R410
