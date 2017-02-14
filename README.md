@@ -4,7 +4,7 @@
 
 Create a digital landscape with your Raspberry Pi by making an electronic garden of spinning flowers, pinwheels, and even some bees! Who said gardening was difficult?
 
-Check out [this video](https://www.youtube.com/watch?v=4Fs7y7gZIag) to help you with this tutorial.
+Check out [this video](https://www.youtube.com/watch?v=4Fs7y7gZIag) for the inspiration behind this resource.
 
 ## Requirements
 
@@ -12,10 +12,10 @@ As well as a Raspberry Pi with an SD card loaded with Raspbian, you'll also need
 
 ### Hardware
 
-- [A Pibrella](http://www.pibrella.com)
-- A geared motor (we use 12V 80RPM geared motors purchased from Amazon)
-- A wheel (we use foam model aircraft wheels purchased from Amazon)
-- [Male-to-male jumper cables](http://shop.pimoroni.com/products/jumper-jerky)
+- [An Explorer HAT Pro](https://shop.pimoroni.com/products/explorer-hat)
+- A geared motor (we use geared motors purchased from Pimoroni)
+- A wheel (we use moon buggy wheels purchased from Pimoroni)
+- [Male-to-female jumper cables](http://shop.pimoroni.com/products/jumper-jerky)
 - A paper cup
 - Coloured paper to create flowers or pinwheels
 - Scissors
@@ -25,7 +25,7 @@ As well as a Raspberry Pi with an SD card loaded with Raspbian, you'll also need
 
 ### Software
 
-- [Pibrella Python Library](http://pibrella.com/#setup)
+- [Explorer HAT Python Library](https://github.com/pimoroni/explorer-hat)
 
 For more information on checking you have these packages installed, and how to install them, see the [software installation page](software.md).
 
@@ -44,4 +44,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ***Spinning Flower Wheel*** & Pinwheels by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licensed under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at https://github.com/raspberrypilearning/spinning-wheels-flowers
+Based on a work at https://github.com/raspberrypilearning/spinning-flower-wheel
