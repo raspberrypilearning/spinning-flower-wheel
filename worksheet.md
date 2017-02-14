@@ -24,7 +24,7 @@ It is likely that your motors and wheels have been supplied separately and will 
 
 1. Push your motor into the hole in the cup, so that the wheel sticks out of the bottom and the jumper wires come out of the top.
 
-1. Turn your cup upside down on the table and connect the two jumper wires to your Explorer HAT board. Place one of the male connectors into **Motor 1 +**, and the other adjacent to it, in **Motor 1 -**
+1. Turn your cup upside down on the table and connect the two jumper wires to your Explorer HAT board. Place one of the male connectors into **Motor 1 +**, and the other adjacent to it, in **Motor 1 -**. In this case it does not matter which way around you connect the wires.
 
     ![Connect the Explorer HAT](images/connect-hat.png)
 
@@ -46,7 +46,11 @@ Now that you have constructed your motor, it is time to decorate it. You can do 
 
 Once the wheel and motors have been assembled and attached to the Explorer HAT, it is time to program them to do what they were built for... turning!
 
-1. From the `Programming` menu, open `Python 3 (IDLE)`, then click `File` > `New File` to create a blank file.
+1. From the `Programming` menu, open `Python 3 (IDLE)`
+
+    ![Open Python](images/python3-app-menu.png)
+
+1. Click `File` > `New File` to create a blank file.
 
 1. Begin your code by importing the Explorer HAT Python library needed to control the motor by typing:
 
@@ -54,7 +58,7 @@ Once the wheel and motors have been assembled and attached to the Explorer HAT, 
     import explorerhat
     ```
 
-1. Underneath that, import the `time` library in the same way so that you can add time delays to your program:
+1. Underneath that, import the sleep function from the `time` library so that you can add time delays to your program:
 
     ```python
     from time import sleep
@@ -85,7 +89,7 @@ The Explorer HAT also includes several input buttons. Let's use a button to star
 1. Underneath your function, add a line of code to tell the Explorer HAT to run the function when button one is pressed. This line of code should **not** be indented - it should be on the far left of the page.
 
   ```python
-      explorerhat.touch.one.pressed(run_motor)
+  explorerhat.touch.one.pressed(run_motor)
   ```
 
 1. Save the amended code file and run it by pressing `F5`. Nothing will happen until you press button one on the Explorer HAT. So give it a go: press that  button!
@@ -93,6 +97,7 @@ The Explorer HAT also includes several input buttons. Let's use a button to star
 ## What next?
 
 - Adapt your code in order to slow the speed of the motors
+- Make your flower spin for a random length of time when the button is pressed, using the random library
 - Add more motors to your Explorer HAT
 - Watch [Make a Digital Garden with Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) for more ideas
 - Use four motors to build a robot
