@@ -1,14 +1,9 @@
-import pibrella
-import time
+import explorerhat
+from time import sleep
 
-def turn():
-  while True:
-    pibrella.output.e.on()
-    pibrella.output.e.off()
-    time.sleep(0.01)
-    if not pibrella.button.read():
-      break
+def run_motor(channel, event):
+  explorerhat.motor.one.forward(100)
+  sleep(10)
+  explorerhat.motor.one.stop()
 
-while True:
-  if pibrella.button.read():
-    turn()
+explorerhat.touch.one.pressed(run_motor)
