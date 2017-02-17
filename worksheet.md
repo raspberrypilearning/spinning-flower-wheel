@@ -50,7 +50,7 @@ Once the wheel and motors have been assembled and attached to the Explorer HAT, 
 
     ![Open Python](images/python3-app-menu.png)
 
-1. Click `File` > `New File` to create a blank file.
+1. Click **File** > **New File** to create a blank file.
 
 1. Begin your code by importing the Explorer HAT Python library needed to control the motor by typing:
 
