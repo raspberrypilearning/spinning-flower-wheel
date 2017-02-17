@@ -72,7 +72,7 @@ Once the wheel and motors have been assembled and attached to the Explorer HAT, 
     explorerhat.motor.one.stop()
     ```
 
-1. Save your code and run the program by pressing `F5` on the keyboard. Your program should turn the motor on, which will spin the shaft connected to the wheel for 10 seconds. How could you make it spin for longer?
+1. Save your code and run the program by pressing **F5** on the keyboard. Your program should turn the motor on, which will spin the shaft connected to the wheel for 10 seconds. How could you make it spin for longer?
 
 ## Using a button to start your spinning program
 
@@ -86,13 +86,13 @@ The Explorer HAT also includes several input buttons. Let's use a button to star
       sleep(10)
       explorerhat.motor.one.stop()
     ```
-1. Underneath your function, add a line of code to tell the Explorer HAT to run the function when button one is pressed. This line of code should **not** be indented - it should be on the far left of the page.
+1. Underneath your function, add a line of code to tell the Explorer HAT to run the function when button one is pressed. This line of code should **not** be indented. Instead, it should be on the far left of the page.
 
   ```python
   explorerhat.touch.one.pressed(run_motor)
   ```
 
-1. Save the amended code file and run it by pressing `F5`. Nothing will happen until you press button one on the Explorer HAT. So give it a go: press that  button!
+1. Save the amended code file and run it by pressing **F5**. Nothing will happen until you press button one on the Explorer HAT. So give it a go: press that button!
 
 ## What next?
 
