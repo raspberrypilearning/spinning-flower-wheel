@@ -20,7 +20,7 @@ It is likely that your motors and wheels have been supplied separately and will 
 
   ![Attach the jumper leads](images/female-jumper-motor.png)
 
-1. Take a paper or plastic cup and using some scissors or a sharp pencil, make a hole in the middle just a little smaller than the size of the motor.
+1. Take a paper or plastic cup and, using some scissors or a sharp pencil, make a hole in the middle just a little smaller than the size of the motor.
 
 1. Push your motor into the hole in the cup, so that the wheel sticks out of the bottom and the jumper wires come out of the top.
 
