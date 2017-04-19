@@ -2,9 +2,11 @@
 
 ## Attach the Explorer HAT to your Raspberry Pi
 
-1. The Explorer HAT fits onto the GPIO pins on your Raspberry Pi. Before pushing it onto the GPIO pins, make sure that your Pi is turned off.
+1. Make sure that your Raspberry Pi is turned off. Connect the Explorer HAT to your Raspberry Pi by pushing it onto the GPIO pins.
 
-1. Connect your micro USB power supply, and your Raspberry Pi will boot.
+    ![Explorer HAT mounted on Pi](images/explorer-hat.png)
+
+1. Connect the micro USB power supply, and your Raspberry Pi will boot.
 
 ## Prepare your motor and wheel
 
