@@ -1,0 +1,25 @@
+---
+title: Spinning Flower Wheel
+hero_image: images/banner.png
+description: Get started with motors by creating a digital garden of spinning flowers
+  or pinwheels
+original_url: https://raspberrypi.org/learning/spinning-flower-wheel
+theme: red
+duration: 2
+listed: false
+ingredient: false
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: rpi, physical computing, python
+site_areas: ''
+steps:
+- title: Introduction
+- title: What you will need
+- title: Attach the Explorer HAT to your Raspberry Pi
+- title: Prepare your motor and wheel
+- title: Decorate your wheel with a flower or pinwheel
+- title: Write code to make the motor turn
+- title: Using a button to start your spinning program
+- title: What next?
+
