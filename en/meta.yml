@@ -6,7 +6,7 @@ description: Get started with motors by creating a digital garden of spinning fl
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
 theme: red
 duration: 2
-listed: false
+listed: true
 ingredient: false
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
