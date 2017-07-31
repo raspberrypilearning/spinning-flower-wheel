@@ -16,7 +16,6 @@ site_areas: ''
 steps:
 - title: Introduction
 - title: What you will need
-- title: Spinning Flower Wheel
 - title: Attach the Explorer HAT to your Raspberry Pi
 - title: Prepare your motor and wheel
 - title: Decorate your wheel with a flower or pinwheel
