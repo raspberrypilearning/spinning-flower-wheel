@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Get started with motors by creating a digital garden of spinning flowers
 or pinwheels
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
-theme: red
+theme: violet
 duration: 2
 listed: true
 ingredient: false
