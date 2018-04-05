@@ -1,8 +1,0 @@
-- name: Explorer HAT
-  img: explorer-hat
-- name: 1 x Geared motor (12V 80RPM)
-  img: motor
-- name: 2 x Male-to-female jumper leads
-  img: jumper-male-to-female
-- name: 1 x Wheel
-  img: foam-wheel
