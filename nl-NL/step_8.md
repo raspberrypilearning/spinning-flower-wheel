@@ -1,7 +1,7 @@
-## What next?
+## Wat kun je verder nog doen?
 
-- Adapt your code in order to slow the speed of the motors
-- Make your flower spin for a random length of time when the button is pressed, using the random library
-- Add more motors to your Explorer HAT
-- Watch [Make a Digital Garden with Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) for more ideas
-- Use four motors to build a robot
+- Pas je code aan om de snelheid van de motoren te verlagen
+- Laat je bloem een ​​willekeurige tijdsduur draaien wanneer je op de knop drukt, met behulp van de random library
+- Voeg meer motoren aan je Explorer HAT toe
+- Bekijk [Make a Digital Garden with Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) voor meer ideeën
+- Gebruik vier motoren om een ​​robot te bouwen
