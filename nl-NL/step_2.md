@@ -1,17 +1,17 @@
-## What you will need
+## Wat heb je nodig
 
 ### Hardware
 
 * Explorer HAT Pro
-* 1 x Geared motor (12V 80RPM)
-* 2 x Male-to-female jumper leads
-* 1 x Wheel
+* 1 x motor (12V DC, 80RPM)
+* 2 x mannetje-vrouwtje verbindingsdraden
+* 1 x wiel
 
 ### Software
 
-#### Software Installation
+#### Software installatie
 
-To install the software you need to type the following into a terminal window. To open terminal window, click on **Main Menu**, **Accessories** and select **Terminal**:
+Om de software te installeren, typ je het volgende in een terminalvenster. Om het terminalvenster te openen, klikt u op **Hoofdmenu**, **Accessoires** en selecteer **Terminal**:
 
 ```bash
 sudo apt-get install python3-explorerhat
