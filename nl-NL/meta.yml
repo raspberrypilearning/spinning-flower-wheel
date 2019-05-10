@@ -1,7 +1,7 @@
 ---
-title: Spinning Flower Wheel
+title: Draaiend bloemen- of windmolentje
 hero_image: images/banner.png
-description: Get started with motors by creating a digital garden of spinning flowers or pinwheels
+description: Ga aan de slag met motoren en maak een digitale tuin van draaiende bloemen of windmolentjes
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
 theme: violet
 duration: 2
@@ -10,26 +10,26 @@ ingredient: false
 copyedit: true
 curriculum: 2, design-0, programming-2, phys-comp-1, manufacture-1, community-0
 interests: art
-technologies: raspberry-pi, electronic-components, python
+technologies: raspberry-pi, elektronic-components, python
 site_areas: projects
-hardware: raspberry-pi, electronic-components
+hardware: raspberry-pi, elektronic components
 software: python
 version: 3
-last_tested: 2017-01-01
+last_tested: 2017/01/01
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: What you will need
+    title: Wat heb je nodig
   - 
-    title: Attach the Explorer HAT to your Raspberry Pi
+    title: Bevestig de Explorer HAT aan je Raspberry Pi
   - 
-    title: Prepare your motor and wheel
+    title: Bereid je motor en wiel voor
   - 
-    title: Decorate your wheel with a flower or pinwheel
+    title: Versier je wiel met een bloem of windvaantjes
   - 
-    title: Write code to make the motor turn
+    title: Schrijf code om de motor te laten draaien
   - 
-    title: Using a button to start your spinning program
+    title: Gebruik een knop om je draaiprogramma te starten
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
