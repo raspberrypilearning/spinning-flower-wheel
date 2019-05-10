@@ -1,15 +1,15 @@
-## Attach the Explorer HAT to your Raspberry Pi
+## Bevestig de Explorer HAT aan je Raspberry Pi
 
-- Make sure that your Raspberry Pi is turned off. Connect the Explorer HAT to your Raspberry Pi by pushing it onto the GPIO pins.
+- Zorg ervoor dat je Raspberry Pi is uitgeschakeld. Verbind de Explorer HAT met je Raspberry Pi door deze op de GPIO-pinnen te duwen.
     
     ![Explorer HAT mounted on Pi](images/explorer-hat.png)
 
-- Connect the micro USB power supply, and your Raspberry Pi will boot.
+- Sluit de micro USB-voeding aan en de Raspberry Pi start op.
 
-- Check you have the Explorer HAT installed correctly by running the following command:
+- Controleer of de Explorer HAT correct is geïnstalleerd door de volgende opdracht uit te voeren:
 
 ```bash
 python3 -c "import explorerhat"
 ```
 
-If you do not see the messsage `Explorer HAT Pro detected...` then check the Explorer HAT is mounted and that you have entered the command above correctly.
+Als je het bericht `Explorer HAT Pro detected...` niet ziet, controleer dan of de Explorer HAT is gemonteerd en of je de bovenstaande opdracht correct hebt ingevoerd.
