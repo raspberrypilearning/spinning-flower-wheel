@@ -1,13 +1,13 @@
-## Decorate your wheel with a flower or pinwheel
+## Versier je wiel met een bloem of windmolen
 
-Now that you have constructed your motor, it is time to decorate it. You can do this by cutting out flower shapes from different coloured paper or felt. Alternatively, you could make an [origami pinwheel out of paper](http://www.wikihow.com/Make-an-Origami-Pinwheel).
+Nu dat je je motor hebt gebouwd, is het tijd om het te versieren. Je kunt dit doen door bloemvormen uit verschillend gekleurd papier of vilt te knippen. Je kunt ook een [origami windmolentje van papier ](http://www.wikihow.com/Make-an-Origami-Pinwheel) maken.
 
-- Place a ball of Blu Tack in the centre of the wheel.
+- Plak een balletje plakgum in het midden van het wiel.
 
-- Add your flower or pinwheel on top of the Blu Tack, ensuring that it is in the middle.
+- Plaats je bloem of windmolen bovenop de plakgum en zorg ervoor dat deze in het midden zit.
 
-- Secure the paper in place with a push pin.
+- Plaats het papier op zijn plek met een punaise.
 
-- You could get really creative with some wire to add insects like bumble bees around the outside! Remember the wheel is going to spin, so how could you take advantage of this in a creative way?
+- Je zou echt creatief kunnen worden door met wat draad insecten, zoals hommels, aan de buitenkant toe te voegen! Vergeet niet dat het wiel gaat draaien, dus hoe kun je hier op een creatieve manier gebruik van maken?
     
     ![Flower decorated cup](images/flower-cup.png)
