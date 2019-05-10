@@ -1,26 +1,26 @@
-## Write code to make the motor turn
+## Schrijf een code om de motor te laten draaien
 
-Once the wheel and motors have been assembled and attached to the Explorer HAT, it is time to program them to do what they were built for... turning!
+Nadat het wiel en de motoren zijn gemonteerd en bevestigd aan de Explorer HAT, is het tijd om ze te programmeren om te doen waarvoor ze zijn gebouwd ... draaien!
 
-- From the `Programming` menu, open `Python 3 (IDLE)`
+- Open in het menu `Programmeren` `Python 3 (IDLE)`
     
     ![Open Python](images/python3-app-menu.png)
 
-- Click **File** > **New File** to create a blank file.
+- Klik op **File** > **New file** om een ​​leeg bestand te maken.
 
-- Begin your code by importing the Explorer HAT Python library needed to control the motor by typing:
+- Begin de code door de Explorer HAT Python-bibliotheek te importeren die nodig is om de motor te besturen door te typen:
     
     ```python
     import explorerhat
     ```
 
-- Underneath that, import the sleep function from the `time` library so that you can add time delays to your program:
+- Daaronder importeer je de sleep function (slaap- of wachtfunctie) uit de bibliotheek `time`, zodat je tijdvertragingen kunt toevoegen aan je programma:
     
     ```python
     from time import sleep
     ```
 
-- Now add the sequence of instructions to control the attached motor:
+- Voeg nu de reeks instructies toe om de aangesloten motor te besturen:
     
     ```python
     explorerhat.motor.one.forward(100)
@@ -28,4 +28,4 @@ Once the wheel and motors have been assembled and attached to the Explorer HAT, 
     explorerhat.motor.one.stop()
     ```
 
-- Save your code and run the program by pressing **F5** on the keyboard. Your program should turn the motor on, which will spin the shaft connected to the wheel for ten seconds. How could you make it spin for longer?
+- Sla je code op en start het programma door op **F5** op het toetsenbord te drukken. Je programma moet de motor aanzetten, waardoor de as die op het wiel is aangesloten, tien seconden lang draait. Hoe kun je hem langer laten draaien?
