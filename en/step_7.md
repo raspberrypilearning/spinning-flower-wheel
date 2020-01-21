@@ -10,6 +10,7 @@ The Explorer HAT also includes several input buttons. Let's use a button to star
       sleep(10)
       explorerhat.motor.one.stop()
     ```
+    
 - Underneath your function, add a line of code to tell the Explorer HAT to run the function when button one is pressed. This line of code should **not** be indented. Instead, it should be on the far left of the page.
 
   ```python
