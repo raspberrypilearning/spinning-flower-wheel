@@ -1,4 +1,4 @@
-## Schrijf een code om de motor te laten draaien
+## Schrijf code om de motor te laten draaien
 
 Nadat het wiel en de motoren zijn gemonteerd en bevestigd aan de Explorer HAT, is het tijd om ze te programmeren om te doen waarvoor ze zijn gebouwd ... draaien!
 
