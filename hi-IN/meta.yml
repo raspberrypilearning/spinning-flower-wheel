@@ -1,0 +1,27 @@
+---
+title: स्पिनिंग फ्लावर व्हील (चकरी)
+hero_image: images/banner.png
+description: घूमते फूल या पिनव्हील्स का एक डिजिटल गार्डन बनाने के लिए मोटर्स से शुरुआत करें
+original_url: https://raspberrypi.org/learning/spinning-flower-wheel
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-1, manufacture-1, community-0
+interests: art
+technologies: raspberry-pi, electronic-components, python
+site_areas: projects
+hardware: raspberry-pi, electronic-components
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: परिचय
+  - title: आपको किन चीज़ों की जरूरत होगी
+  - title: एक्स्प्लोरर हैट (Explorer HAT) को Raspberry Pi में जोड़ें
+  - title: अपनी मोटर और पहिया तैयार करें
+  - title: अपने पहिये को फूल या पिनव्हील से सजाएँ
+  - title: मोटर चालू करने के लिए कोड लिखें
+  - title: बटन का उपयोग करके अपना घूमने वाला प्रोग्राम शुरू करे
+  - title: आगे क्या है?
