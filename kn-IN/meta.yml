@@ -1,7 +1,7 @@
 ---
-title: Spinning Flower Wheel
+title: ತಿರುಗುವ ಹೂ ಚಕ್ರ
 hero_image: images/banner.png
-description: Get started with motors by creating a digital garden of spinning flowers or pinwheels
+description: ತಿರುಗುವ ಹೂವುಗಳು ಅಥವಾ ಪಿನ್‌ವೀಲ್‌ಳನ್ನು ರಚಿಸುವ ಮೂಲಕ ಮೋಟರ್‌ಗಳ ಬಳಕೆ ಕಲಿಯಿರಿ
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
 theme: violet
 duration: 2
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
   - 
-    title: What you will need
+    title: ನಿಮಗೆ ಬೇಕಾದುದು
   - 
-    title: Attach the Explorer HAT to your Raspberry Pi
+    title: ನಿಮ್ಮ Raspberry Pi ಗೆ Explorer HAT ಅನ್ನು ಲಗತ್ತಿಸಿ
   - 
-    title: Prepare your motor and wheel
+    title: ನಿಮ್ಮ ಮೋಟರ್ ಮತ್ತು ಚಕ್ರವನ್ನು ತಯಾರಿಸಿ
   - 
-    title: Decorate your wheel with a flower or pinwheel
+    title: ನಿಮ್ಮ ಚಕ್ರವನ್ನು ಹೂ ಅಥವಾ ಪಿನ್‌ವೀಲ್‌ನಿಂದ ಅಲಂಕರಿಸಿ
   - 
-    title: Write code to make the motor turn
+    title: ಮೊಟೊರ್ ತಿರುಗುವಂತೆ ಕೋಡ್ (code) ಬರೆಯಿರಿ
   - 
-    title: Using a button to start your spinning program
+    title: ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಪ್ರಾರಂಭಿಸಲು ಬಟನ್ (button) ಬಳಸಿ
   - 
-    title: What next?
+    title: ಮುಂದೆ ಏನು?
