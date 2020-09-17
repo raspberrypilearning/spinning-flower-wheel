@@ -1,26 +1,26 @@
-## Write code to make the motor turn
+## ಮೋಟರ್ ತಿರುಗುವಂತೆ ಕೋಡ್ (code) ಬರೆಯಿರಿ
 
-Once the wheel and motors have been assembled and attached to the Explorer HAT, it is time to program them to do what they were built for... turning!
+ಚಕ್ರ ಮತ್ತು ಮೋಟರ್‌ಗಳನ್ನು Explorer HAT‌ಗೆ ಜೋಡಿಸಿದ ನಂತರ, ಅವುಗಳು ಪ್ರೋಗ್ರಾಮ್ ಮಾಡುವ ಸಮಯ... ತಿರುಗುವಿಕೆ!
 
-- From the `Programming` menu, open `Python 3 (IDLE)`
+- `Programming` ಮೆನು ಇಂದ, `Python 3 (IDLE)` ತೆರೆಯಿರಿ
     
     ![Open Python](images/python3-app-menu.png)
 
-- Click **File** > **New File** to create a blank file.
+- ಖಾಲಿ ಫೈಲನ್ನು ಸೃಷ್ಟಿಸಲು, **File** > **New File** ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-- Begin your code by importing the Explorer HAT Python library needed to control the motor by typing:
+- ನಿಮ್ಮ ಕೋಡ್, ಮೋಟರ್ ಅನ್ನು ನಿಯಂತ್ರಿಸಲು ಅಗತ್ಯವಿರುವ Explorer HAT Python libraryಯನ್ನು ಆಮದು ಮಾಡುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸಿ:
     
     ```python
     import explorerhat
     ```
 
-- Underneath that, import the sleep function from the `time` library so that you can add time delays to your program:
+- ಅದರ ಕೆಳಗೆ, sleep function ಅನ್ನು `time` ಲೈಬ್ರರಿಇಂದ ಅಮದು ಮಾಡಿ. ಇದರಿಂದ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂಗೆ ಸಮಯ ವಿಳಂಬವನ್ನು ಸೇರಿಸಬಹುದು:
     
     ```python
     from time import sleep
     ```
 
-- Now add the sequence of instructions to control the attached motor:
+- ಲಗತ್ತಿಸಲಾದ ಮೋಟರ್ ಅನ್ನು ನಿಯಂತ್ರಿಸಲು ಈಗ ಸೂಚನೆಗಳ ಅನುಕ್ರಮವನ್ನು ಸೇರಿಸಿ:
     
     ```python
     explorerhat.motor.one.forward(100)
@@ -28,4 +28,4 @@ Once the wheel and motors have been assembled and attached to the Explorer HAT, 
     explorerhat.motor.one.stop()
     ```
 
-- Save your code and run the program by pressing **F5** on the keyboard. Your program should turn the motor on, which will spin the shaft connected to the wheel for ten seconds. How could you make it spin for longer?
+- ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಮ್ ಅನ್ನು save ಮಾಡಿ ಹಾಗೂ ಅದನ್ನು run ಮಾಡಲು ಕೀಬೋರ್ಡ್‌ನಲ್ಲಿ **F5** ಒತ್ತಿ. ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಮೋಟರ್ ಅನ್ನು ಆನ್ ಮಾಡುತ್ತದೆ. ಇದರಿಂದ ಹತ್ತು ಸೆಕೆಂಡುಗಳ ಕಾಲ ಚಕ್ರಕ್ಕೆ ಸಂಪರ್ಕ ಹೊಂದಿದ ಶಾಫ್ಟ್ ತಿರುಗುತ್ತದೆ. ನೀವು ಅದನ್ನು ಹೆಚ್ಚು ಕಾಲ ತಿರುಗಿಸಲು ಏನು ಮಾಡಬಹುದು?
