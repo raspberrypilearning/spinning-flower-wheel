@@ -1,13 +1,13 @@
-## Decorate your wheel with a flower or pinwheel
+## ನಿಮ್ಮ ಚಕ್ರವನ್ನು ಹೂ ಅಥವಾ ಪಿನ್‌ವೀಲ್‌ನಿಂದ ಅಲಂಕರಿಸಿ
 
-Now that you have constructed your motor, it is time to decorate it. You can do this by cutting out flower shapes from different coloured paper or felt. Alternatively, you could make an [origami pinwheel out of paper](http://www.wikihow.com/Make-an-Origami-Pinwheel).
+ನೀವು ನಿಮ್ಮ ಮೋಟರ್ ಅನ್ನು ನಿರ್ಮಿಸಿದ್ದೀರಿ, ಈಗ ಅದನ್ನು ಅಲಂಕರಿಸುವ ಸಮಯ. ವಿವಿಧ ಬಣ್ಣದ ಕಾಗದದಿಂದ ಹೂವಿನ ಆಕಾರಗಳನ್ನು ಕತ್ತರಿಸಿ ಅದರಿಂದ ಅಲಂಕರಿಸಬಹುದು. ಅಥವಾ ನೀವು ಕಾಗದದಿಂದ [ಒರಿಗಮಿ ಪಿನ್‌ವೀಲ್](http://www.wikihow.com/Make-an-Origami-Pinwheel) ಮಾಡಬಹುದು.
 
-- Place a ball of Blu Tack in the centre of the wheel.
+- ಚಕ್ರದ ಮಧ್ಯದಲ್ಲಿ Blu Tack ಅನ್ನು ಅಂಟಿಸಿ.
 
-- Add your flower or pinwheel on top of the Blu Tack, ensuring that it is in the middle.
+- ನಿಮ್ಮ ಹೂವು ಅಥವಾ ಪಿನ್‌ವೀಲ್ ಅನ್ನು Blu Tack ‌ನ ಮೇಲೆ ಸೇರಿಸಿ, ಅದು ಮಧ್ಯದಲ್ಲಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
 
-- Secure the paper in place with a push pin.
+- ಪುಶ್ ಪಿನ್ನೊಂದಿಗೆ ಕಾಗದವನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸಿ.
 
-- You could get really creative with some wire to add insects like bumble bees around the outside! Remember the wheel is going to spin, so how could you take advantage of this in a creative way?
+- ನೀವು ಸ್ರುಜನಶೀಲರಾಗಿ, ಹೂಗಳ ಮೇಲೆ ತಂತಿಗಳ ಸಹಾಯದಿಂದ ಜೇನು ನೊಣ ಅಥವ ಇನ್ನಿತರವುಗಳನ್ನು ಸೇರಿಸಬಹುದು! ಚಕ್ರವು ತಿರುಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ, ಆದ್ದರಿಂದ ನೀವು ಇದನ್ನು ಸೃಜನಶೀಲ ರೀತಿಯಲ್ಲಿ ಹೇಗೆ ಬಳಸಿಕೊಳ್ಳಬಹುದು?
     
     ![Flower decorated cup](images/flower-cup.png)
