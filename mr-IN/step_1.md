@@ -1,15 +1,15 @@
-## What you will make
+## आपण काय तयार करणार आहोत
 
-In this resource you will create a digital landscape with your Raspberry Pi by making an electronic garden of spinning flowers, pinwheels, and even some bees! Who said gardening was difficult? Check out [this video](https://www.youtube.com/watch?v=4Fs7y7gZIag) for some more inspiration.
+या संसाधनात आपण आपल्या Raspberry Pi च्या मदतीने फिरत असणरे फुलं, पिनव्हील आणि मधमाश्यांचा इलेक्ट्रॉनिक बाग तयार करुन एक डिजिटल लँडस्केप तयार कराल! बागकाम करणे कठीण आहे असे कुणी म्हटले आहे? अधिक प्रेरणा घेण्यासाठी [हा व्हिडिओ](https://www.youtube.com/watch?v=4Fs7y7gZIag) पहा.
 
-## What you will learn
+## आपण काय शिकाल
 
-By creating a spinning flower with your Raspberry Pi you will learn:
+आपल्या Raspberry Pi सह आपण फिरणारे फुल बनवून शिकाल:
 
-- How to connect a motor to a Raspberry Pi
-- How to make the motor spin with Python code
+- Raspberry Pi ला मोटर कशी जोडावी
+- Python कोडसह मोटर कसी फिरवाइची
 
-This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
+या संसाधनात [Raspberry Pi डिजिटल निर्माण पाठ्यक्रमच्या](https://www.raspberrypi.org/curriculum/) खालील घटकांचे घटक समाविष्ट आहेत:
 
-- [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator)
-- [Use basic digital, analogue, and electromechanical components](https://www.raspberrypi.org/curriculum/physical-computing/creator)
+- [सोपे प्रोग्राम तयार करण्यासाठी मूलभूत संरचना वापरा](https://www.raspberrypi.org/curriculum/programming/creator)
+- [मूलभूत डिजिटल, अ‍ॅनालॉग आणि विद्युत यांत्रिक घटक वापरा](https://www.raspberrypi.org/curriculum/physical-computing/creator)
