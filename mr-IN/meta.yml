@@ -1,35 +1,35 @@
 ---
-title: Spinning Flower Wheel
+title: स्पिनिंग फ्लॉवर व्हील
 hero_image: images/banner.png
-description: Get started with motors by creating a digital garden of spinning flowers or pinwheels
+description: स्पिनिंग फ्लॉवर किंवा पिनव्हीलची डिजिटल बाग तयार करून मोटर्स सह प्रारंभ करा
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
-theme: violet
+theme: जांभळा
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 2, design-0, programming-2, phys-comp-1, manufacture-1, community-0
-interests: art
+interests: कला
 technologies: raspberry-pi, electronic-components, python
 site_areas: projects
-hardware: raspberry-pi, electronic-components
+hardware: raspberry-pi, इलेक्ट्रॉनिक घटक
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: What you will need
+    title: आपल्याला कशाची आवश्यकता असेल
   - 
-    title: Attach the Explorer HAT to your Raspberry Pi
+    title: आपल्या Raspberry Pi वर Explorer HAT जोडा
   - 
-    title: Prepare your motor and wheel
+    title: आपली मोटर आणि चाक तयार करा
   - 
-    title: Decorate your wheel with a flower or pinwheel
+    title: आपले चाक फूल किंवा पिनव्हीलने सजवा
   - 
-    title: Write code to make the motor turn
+    title: मोटर वळविण्या साठी कोड लिहा
   - 
-    title: Using a button to start your spinning program
+    title: बटण चा उपयोग करुन आपला स्पिन्निंग कार्यक्रम प्रारंभ करा
   - 
-    title: What next?
+    title: पुढे काय?
