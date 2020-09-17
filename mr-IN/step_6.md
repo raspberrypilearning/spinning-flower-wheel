@@ -1,26 +1,26 @@
-## Write code to make the motor turn
+## मोटार सुरू करण्यासाठी कोड लिहा
 
-Once the wheel and motors have been assembled and attached to the Explorer HAT, it is time to program them to do what they were built for... turning!
+एकदा चाके आणि मोटर्स एक्सप्लोरर हॅट Explorer HAT शी जोडले गेले आणि कनेक्ट झाले की ते ज्या कामासाठी बांधले गेले होते त्या कार्यासाठी प्रोग्रामिंग करण्याची वेळ आली आहे... फिरण्यासाठी!
 
-- From the `Programming` menu, open `Python 3 (IDLE)`
+- `Programming` मेनू मधून `Python 3 (IDLE)` उघडा
     
-    ![Open Python](images/python3-app-menu.png)
+    ![Python उघडा](images/python3-app-menu.png)
 
-- Click **File** > **New File** to create a blank file.
+- **File** > **New File** वर क्लिक करा आणि रिक्त फाइल तयार करा.
 
-- Begin your code by importing the Explorer HAT Python library needed to control the motor by typing:
+- हे लिहा वर आपल्या कोडच्या सुरूवातीस एक्सप्लोरर हॅट Python लायब्ररी आयात (इम्पोर्ट) करा, ज्याला मोटर चालविण्याची आवश्यकता आहे:
     
     ```python
-    import explorerhat
+    explorerhat ला इम्पोर्ट करा
     ```
 
-- Underneath that, import the sleep function from the `time` library so that you can add time delays to your program:
+- त्या खाली, `time` लायब्ररीमधून स्लीप फंक्शन आयात (इम्पोर्ट) करा जेणेकरून आपण आपल्या प्रोग्राममधील वेळ विलंब वापरू शकाल:
     
     ```python
     from time import sleep
     ```
 
-- Now add the sequence of instructions to control the attached motor:
+- आता आपल्या मोटर नियंत्रित करण्यासाठी ही सूचना लिहा:
     
     ```python
     explorerhat.motor.one.forward(100)
@@ -28,4 +28,4 @@ Once the wheel and motors have been assembled and attached to the Explorer HAT, 
     explorerhat.motor.one.stop()
     ```
 
-- Save your code and run the program by pressing **F5** on the keyboard. Your program should turn the motor on, which will spin the shaft connected to the wheel for ten seconds. How could you make it spin for longer?
+- कीबोर्ड वर **F5** दाबून आपला कोड सेव्ह करा आणि run करा. आपला प्रोग्रामनी मोटर चालू केला पाहिजे, जो चाकाशी जोडलेला शाफ्टला दहा सेकंद फिरवेल. आपण यास अधिक समय कसे फिरवू शकता?
