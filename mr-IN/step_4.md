@@ -1,21 +1,21 @@
-## Prepare your motor and wheel
+## आपली मोटर आणि चाक तयार करा
 
-It is likely that your motors and wheels have been supplied separately and will therefore need to be connected in order for you to use them.
+आपल्या मोटर आणि चाक स्वतंत्रपणे पुरविल्या गेल्या असतील आणि त्या वापरण्यासाठी आपल्याला त्यास कनेक्ट करणे आवश्यक आहे.
 
-![Motor and wheel](images/components.png)
+![मोटार आणी चाकl](images/components.png)
 
-- Place the wheel on a desk or table. Align the shaft of the motor with the wheel and press it gently until it is about half way into the wheel. If you are using a wheel which does not fit snugly onto the motor shaft, you may need to use a small amount of strong glue to attach it.
+- चाक डेस्क किंवा टेबलवर ठेवा. चाकासह मोटरचा शाफ्ट संरेखित करा आणि चाकच्या जवळपास अर्ध्या मार्गावर येईपर्यंत हळू दाबा. आपण मोटर शाफ्टवर पूर्णपणे फिट नसणारी चाक वापरत असल्यास, त्यास जोडण्यासाठी आपणास थोडासा प्रमाणात मजबूत गोंद वापरण्याची आवश्यकता असू शकते.
     
-    ![Attach the motor](images/attach-motor.png)
+    ![मोटार जोडा](images/attach-motor.png)
 
-- Next, take two female-to-male jumper cables and attach the female end to the prongs on the motor. If you are using a motor which does not have attachments for jumper leads already attached, you will need to strip the jumper leads and solder them to the motor's connectors.
+- पुढे, दोन फीमेल-से-मेल जम्पर केबल केबल्स (female-to-male jumper cable) घ्या आणि फीमेलच्या बाजूला मोटरच्या हुकशी जोडा. जर आपण एखादी मोटार वापरत असाल ज्यामध्ये आधीपासूनच जोडलेल्या जंपर लीड्ससाठी अटॅचमेंट्स नसतील तर आपणास जम्पर लीड्स काढून टाकाव्या लागतील आणि त्या मोटरच्या कनेक्टरला हुकशी जोडा लागतील.
     
     ![Attach the jumper leads](images/female-jumper-motor.png)
 
-- Take a paper or plastic cup and, using some scissors or a sharp pencil, make a hole in the middle just a little smaller than the size of the motor.
+- एक कागद किंवा प्लास्टिकचा कप घ्या आणि, कात्री किंवा तीक्ष्ण पेन्सिल वापरुन, मध्यभागी मोटारच्या आकारापेक्षा लहान बनवा.
 
-- Push your motor into the hole in the cup, so that the wheel sticks out of the bottom and the jumper wires come out of the top.
+- आपली मोटर कपच्या भोकमध्ये सरकवा, जेणेकरून व्हील तळापासून बाहेर येईल आणि वरच्या बाजूला जम्पर वायर्स (jumper wires) बाहेर येतील.
 
-- Turn your cup upside down on the table and connect the two jumper wires to your Explorer HAT board. Place one of the male connectors into **Motor 1 +**, and the other adjacent to it, in **Motor 1 -**. In this case it does not matter which way around you connect the wires.
+- आपला कप वरच्या बाजूला टेबलवर ठेवा आणि दोन जम्पर वायर्स (jumper wires) आपल्या एक्सप्लोररच्या हॅट बोर्डशी (Explorer HAT board) जोडा. मेल कनेक्टर्स (Male connectors) मधील एकाला **Motor 1 +** मध्ये ठेवा आणि दुसरा **Motor 1 -** मध्ये ठेवा. आपण येथे तार कसे जोडता हे महत्वाचे नाही.
     
     ![Connect the Explorer HAT](images/connect-hat.png)
