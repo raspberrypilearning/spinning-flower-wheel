@@ -1,7 +1,7 @@
-## What next?
+## पुढे काय?
 
-- Adapt your code in order to slow the speed of the motors
-- Make your flower spin for a random length of time when the button is pressed, using the random library
-- Add more motors to your Explorer HAT
-- Watch [Make a Digital Garden with Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) for more ideas
-- Use four motors to build a robot
+- मोटारचा वेग कमी करण्यासाठी आपला कोड अनुकूल करा
+- रैंडम लाइब्रेरी (Random Library) वापरुन button दाबले जाते तेव्हा वेळेच्या रैंडम लांबीसाठी आपले फ्लॉवर स्पिन बनवा
+- आपल्या एक्सप्लोरर हॅट (Explorer HAT) मध्ये आणखी मोटर्स जोडा
+- अधिक कल्पनांसाठी [Make a Digital Garden with Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) पहा
+- रोबोट तयार करण्यासाठी चार मोटर्स वापरा
