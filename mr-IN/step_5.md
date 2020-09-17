@@ -1,13 +1,13 @@
-## Decorate your wheel with a flower or pinwheel
+## आपले चाक फूल किंवा पिनव्हीलने सजवा
 
-Now that you have constructed your motor, it is time to decorate it. You can do this by cutting out flower shapes from different coloured paper or felt. Alternatively, you could make an [origami pinwheel out of paper](http://www.wikihow.com/Make-an-Origami-Pinwheel).
+आता आपण आपली मोटार बनविली आहे, ती सजवण्याची वेळ आली आहे. आपण वेगवेगळ्या रंगाच्या कागदासह किंवा वाटलेल्या फुलांचे आकार कापून हे करू शकता. अथवा, आपण [origami pinwheel out of paper](http://www.wikihow.com/Make-an-Origami-Pinwheel) बनवू शकता.
 
-- Place a ball of Blu Tack in the centre of the wheel.
+- चाकाच्या मध्यभागी एक निळा टैकचा (Blu Tack) बॉल ठेवा.
 
-- Add your flower or pinwheel on top of the Blu Tack, ensuring that it is in the middle.
+- ब्लू टॅकच्या वर आपले फूल किंवा पिनव्हील जोडा, हे मध्यभागी असल्याचे सुनिश्चित करत.
 
-- Secure the paper in place with a push pin.
+- कागद ठिकाणी ठेवण्यासाठी पुश pin वापरा.
 
-- You could get really creative with some wire to add insects like bumble bees around the outside! Remember the wheel is going to spin, so how could you take advantage of this in a creative way?
+- आपण काही वायरसह सर्जनशील बनवू शकता आणि त्याला भवरासारखा आकार देऊ शकता! लक्षात ठेवा की चाक फिरणार आहे, तर आपण त्याचा सर्जनशीलपणे कसा फायदा घेऊ शकता?
     
-    ![Flower decorated cup](images/flower-cup.png)
+    ![फुलांनी सजवलेले कप](images/flower-cup.png)
