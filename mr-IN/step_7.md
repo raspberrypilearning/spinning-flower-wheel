@@ -1,8 +1,8 @@
-## Using a button to start your spinning program
+## Button चा उपयोग करुन आपला स्पिन्निंग कार्यक्रम प्रारंभ करा
 
-The Explorer HAT also includes several input buttons. Let's use a button to start your spinning flower or pinwheel program when you want it to.
+एक्सप्लोरर हॅट (Explorer HAT) मध्ये अनेक इनपुट buttons देखील समाविष्ट आहेत. आपल्याला पाहिजे तेव्हा आपले फिरणारे फुल किंवा पिनव्हील प्रोग्राम प्रारंभ करण्यासाठी एक बटण वापरा.
 
-- With your Python program open, navigate to just above `explorerhat.motor.one.forward(100)` and add a line to define a function called `run_motor`. Then, highlight the three lines of code which control the motor and press the `tab` key to indent them. They are now part of the function.
+- आपल्या ओपन Python प्रोग्राममधील `explorerhat.motor.one.forward(100)` वर जा आणि `run_motor` Python नावाच्या फंक्शनची व्याख्या करण्यासाठी एक पंक्ती जोडा. त्यानंतर, मोटरला नियंत्रित करणार्‍या कोडच्या तीन ओळींना हायलाइट करा आणि `tab` दाबून त्यास इंडेंट करा. ते आता फंक्शनचा एक भाग आहेत.
     
     ```python
     def run_motor(channel, event):
@@ -11,10 +11,10 @@ The Explorer HAT also includes several input buttons. Let's use a button to star
       explorerhat.motor.one.stop()
     ```
 
-- Underneath your function, add a line of code to tell the Explorer HAT to run the function when button one is pressed. This line of code should **not** be indented. Instead, it should be on the far left of the page.
+- आपल्या फंक्शनच्या खाली, कोडची एक ओळ जोडा जी एक्सप्लोरर हॅट (Explorer HAT) ला button एक दाबल्यावर फंक्शन चालवण्यास सांगते. कोडची ही ओळ **नाही** इंडेंट केलेली असणे आवश्यक आहे. त्याऐवजी ते पृष्ठा (पेज) च्या डाव्या बाजूला असले पाहिजे.
     
     ```python
     explorerhat.touch.one.pressed(run_motor)
     ```
 
-- Save the amended code file and run it by pressing **F5**. Nothing will happen until you press button one on the Explorer HAT. So give it a go: press that button!
+- **F5** दाबून सुधारित कोड फाईल सेव्ह करा आणि ती run करा. आपण एक्सप्लोरर हॅट (Explorer HAT) वर एक button दाबल्याशिवाय काहीही होणार नाही. तर प्रयत्न करा: एक button दाबा!
