@@ -1,17 +1,17 @@
-## What you will need
+## आपल्याला कशाची गरज असेल
 
-### Hardware
+### हार्डवेअर
 
-* Explorer HAT Pro
-* 1 x Geared motor (12V 80RPM)
-* 2 x Male-to-female jumper leads
-* 1 x Wheel
+* एक्सप्लोरर हॅट प्रो (Explorer HAT Pro)
+* एक x गियर वाली मोटर (1 x Geared motor (12V 80RPM))
+* दोन मेल-टू-फीमेल जंपर लीड (2 x Male-to-female jumper leads)
+* एक व्हील (1 x Wheel)
 
-### Software
+### सॉफ्टवेअर
 
-#### Software Installation
+#### सॉफ्टवेअर इंस्टॉलेशन
 
-To install the software you need to type the following into a terminal window. To open terminal window, click on **Main Menu**, **Accessories** and select **Terminal**:
+सॉफ्टवेअर इंस्टॉल करण्यासाठी आपल्याला टर्मिनल विंडोमध्ये खालील कोड लिहिणे आवश्यक आहे. टर्मिनल विंडो उघडण्यासाठी, **Main Menu** वर क्लिक करा, त्यानंतर **Accessories** आणि **Terminal** निवडा:
 
 ```bash
 sudo apt-get install python3-explorerhat
