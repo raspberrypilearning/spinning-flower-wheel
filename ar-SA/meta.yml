@@ -1,7 +1,7 @@
 ---
-title: Spinning Flower Wheel
+title: عجلة الزهور الدوارة
 hero_image: images/banner.png
-description: Get started with motors by creating a digital garden of spinning flowers or pinwheels
+description: ابدأ بالمحركات من خلال إنشاء حديقة رقمية من الزهور الدوارة أو دواليب الهواء
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
 theme: violet
 duration: 2
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: What you will need
+    title: ما ستحتاج إليه
   - 
-    title: Attach the Explorer HAT to your Raspberry Pi
+    title: قم بتوصيل Explorer HAT بـ Raspberry Pi الخاص بك
   - 
-    title: Prepare your motor and wheel
+    title: جهز المحرك والعجلة الخاصة بك
   - 
-    title: Decorate your wheel with a flower or pinwheel
+    title: زين عجلتك بالزهور أو المروحة
   - 
-    title: Write code to make the motor turn
+    title: اكتب التعليمات البرمجية لجعل المحرك يستدير
   - 
-    title: Using a button to start your spinning program
+    title: استخدام زر لبدء تشغيل برنامج الدوران الخاص بك
   - 
-    title: What next?
+    title: ما التالي؟
