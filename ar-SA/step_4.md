@@ -1,21 +1,21 @@
-## Prepare your motor and wheel
+## جهز المحرك والعجلة الخاصة بك
 
-It is likely that your motors and wheels have been supplied separately and will therefore need to be connected in order for you to use them.
+من المحتمل أن تكون المحركات و العجلات الخاصة بك قد تم توفيرها بشكل منفصل وبالتالي ستحتاج إلى توصيلها لتتمكن من استخدامها.
 
-![Motor and wheel](images/components.png)
+![المحرك والعجلة](images/components.png)
 
-- Place the wheel on a desk or table. Align the shaft of the motor with the wheel and press it gently until it is about half way into the wheel. If you are using a wheel which does not fit snugly onto the motor shaft, you may need to use a small amount of strong glue to attach it.
+- ضع العجلة على مكتب أو طاولة. قم بمحاذاة عمود المحرك مع العجلة واضغط عليها برفق حتى تصل إلى منتصف الطريق تقريبًا في العجلة. إذا كنت تستخدم عجلة لا تتناسب بإحكام مع عمود المحرك ، فقد تحتاج إلى استخدام كمية صغيرة من الغراء القوي لتثبيتها.
     
-    ![Attach the motor](images/attach-motor.png)
+    ![اربط المحرك](images/attach-motor.png)
 
-- Next, take two female-to-male jumper cables and attach the female end to the prongs on the motor. If you are using a motor which does not have attachments for jumper leads already attached, you will need to strip the jumper leads and solder them to the motor's connectors.
+- بعد ذلك ، خذ كبلين توصيل من أنثى إلى ذكر وقم بتوصيل الطرف الأنثوي بالشوكات الموجودة على المحرك. إذا كنت تستخدم محركًا لا يحتوي على مرفقات لأسلاك التوصيل المرفقة بالفعل ، فستحتاج إلى تجريد أسلاك التوصيل وتوصيلها بموصلات المحرك.
     
-    ![Attach the jumper leads](images/female-jumper-motor.png)
+    ![إرفاق وصلات العبور](images/female-jumper-motor.png)
 
-- Take a paper or plastic cup and, using some scissors or a sharp pencil, make a hole in the middle just a little smaller than the size of the motor.
+- خذ كوبًا ورقيًا أو بلاستيكيًا ، وباستخدام المقص أو قلم رصاص حاد ، اصنع ثقبًا في المنتصف أصغر قليلاً من حجم المحرك.
 
-- Push your motor into the hole in the cup, so that the wheel sticks out of the bottom and the jumper wires come out of the top.
+- ادفع المحرك إلى الفتحة الموجودة في الكوب ، بحيث تخرج العجلة من الأسفل وتخرج أسلاك العبور من الأعلى.
 
-- Turn your cup upside down on the table and connect the two jumper wires to your Explorer HAT board. Place one of the male connectors into **Motor 1 +**, and the other adjacent to it, in **Motor 1 -**. In this case it does not matter which way around you connect the wires.
+- اقلب الكوب رأسًا على عقب على المنضدة وقم بتوصيل سلكي العبور بلوحة Explorer HAT. ضع أحد الموصلات الذكرية في **Motor 1 +**، والآخر بجواره ، في **Motor 1 -**. في هذه الحالة لا يهم الطريقة التي تربط بها الأسلاك.
     
-    ![Connect the Explorer HAT](images/connect-hat.png)
+    ![توصيل Explorer HAT](images/connect-hat.png)
