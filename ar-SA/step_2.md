@@ -1,17 +1,17 @@
-## What you will need
+## ما ستحتاج اليه
 
-### Hardware
+### الأجهزة
 
 * Explorer HAT Pro
-* 1 x Geared motor (12V 80RPM)
+* 1 × محرك موجه (12V 80RPM)
 * 2 x Male-to-female jumper leads
-* 1 x Wheel
+* 1 × عجلة
 
-### Software
+### البرمجيات
 
-#### Software Installation
+#### تثبيت البرنامج
 
-To install the software you need to type the following into a terminal window. To open terminal window, click on **Main Menu**, **Accessories** and select **Terminal**:
+لتثبيت البرنامج ، تحتاج إلى كتابة ما يلي في نافذة طرفية. لفتح النافذة الطرفية ، انقر فوق **القائمة الرئيسية**، **الملحقات** وحدد **Terminal**:
 
 ```bash
 sudo apt-get install python3-explorerhat
