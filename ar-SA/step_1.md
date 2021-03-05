@@ -1,15 +1,15 @@
-## What you will make
+## ما الذي ستصنعه
 
-In this resource you will create a digital landscape with your Raspberry Pi by making an electronic garden of spinning flowers, pinwheels, and even some bees! Who said gardening was difficult? Check out [this video](https://www.youtube.com/watch?v=4Fs7y7gZIag) for some more inspiration.
+في هذا المورد ، ستنشئ منظرًا طبيعيًا رقميًا باستخدام Raspberry Pi الخاص بك عن طريق إنشاء حديقة إلكترونية من الزهور الدوارة ، ودواليب الهواء ، وحتى بعض النحل! من قال أن البستنة صعبة؟ شاهد [هذا الفيديو](https://www.youtube.com/watch?v=4Fs7y7gZIag) لمزيد من الإلهام.
 
-## What you will learn
+## ما الذي ستتعلمه
 
-By creating a spinning flower with your Raspberry Pi you will learn:
+من خلال إنشاء زهور دوارة مع Raspberry Pi الخاص بك سوف تتعلم:
 
-- How to connect a motor to a Raspberry Pi
-- How to make the motor spin with Python code
+- كيفية توصيل محرك إلى Raspberry Pi
+- كيفية جعل المحرك يدور بكود بايثون
 
-This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
+يتناول هذا المورد عناصر من السلسة التالية للمناهج [الرقمية الخاصة بـ Raspberry Pi](https://www.raspberrypi.org/curriculum/):
 
-- [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator)
-- [Use basic digital, analogue, and electromechanical components](https://www.raspberrypi.org/curriculum/physical-computing/creator)
+- [استخدام تركيبات البرمجة الأساسية لإنشاء برامج بسيطة](https://www.raspberrypi.org/curriculum/programming/creator)
+- [استخدام المكونات الرقمية التناظرية والكهروميكانيكية الأساسية](https://www.raspberrypi.org/curriculum/physical-computing/creator)
