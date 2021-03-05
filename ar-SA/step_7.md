@@ -1,8 +1,8 @@
-## Using a button to start your spinning program
+## استخدام زر لبدء تشغيل برنامج الدوران الخاص بك
 
-The Explorer HAT also includes several input buttons. Let's use a button to start your spinning flower or pinwheel program when you want it to.
+يتضمن Explorer HAT أيضًا العديد من أزرار الإدخال. دعونا نستخدم الزر لبدء برنامج الزهرة الدوارة أو العجلة عندما تريد ذلك.
 
-- With your Python program open, navigate to just above `explorerhat.motor.one.forward(100)` and add a line to define a function called `run_motor`. Then, highlight the three lines of code which control the motor and press the `tab` key to indent them. They are now part of the function.
+- مع فتح برنامج Python الخاص بك، انتقل إلى أعلى `explorerhat.motor.one.forward(100)` وقم بإضافة سطر لتحديد دالة تسمى `run_motor`. بعد ذلك ، قم بتمييز الأسطر الثلاثة من التعليمات البرمجية التي تتحكم في المحرك واضغط على `tab` لتثبيتها. وهي الآن جزء من الوظيفة.
     
     ```python
     def run_motor(channel, event):
@@ -11,10 +11,10 @@ The Explorer HAT also includes several input buttons. Let's use a button to star
       explorerhat.motor.one.stop()
     ```
 
-- Underneath your function, add a line of code to tell the Explorer HAT to run the function when button one is pressed. This line of code should **not** be indented. Instead, it should be on the far left of the page.
+- تحت الدالة الخاصة بك، أضف سطراً من التعليمات البرمجية لإخبار Explorer HAT بتشغيل الدالة عند الضغط على الزر الأول. **لا<0> يجب وضع مسافة بادئة لسطر التعليمات البرمجية هذا. وبدلا من ذلك، ينبغي أن يكون في أقصى اليسار من الصفحة.</p> 
     
     ```python
     explorerhat.touch.one.pressed(run_motor)
-    ```
-
-- Save the amended code file and run it by pressing **F5**. Nothing will happen until you press button one on the Explorer HAT. So give it a go: press that button!
+    ```</li> 
+    
+    - حفظ ملف التعليمات البرمجية المعدلة وتشغيلها بالضغط على **F5**. لن يحدث شيء حتى تضغط على الزر الأول في Explorer HAT. لذا جربها: اضغط على هذا الزر!</ul>
