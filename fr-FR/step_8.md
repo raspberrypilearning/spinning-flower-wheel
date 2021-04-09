@@ -1,7 +1,7 @@
-## What next?
+## Et ensuite ?
 
-- Adapt your code in order to slow the speed of the motors
-- Make your flower spin for a random length of time when the button is pressed, using the random library
-- Add more motors to your Explorer HAT
-- Watch [Make a Digital Garden with Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) for more ideas
-- Use four motors to build a robot
+- Adapter ton code afin de ralentir la vitesse des moteurs
+- Faire tourner ta fleur tournante pendant une durée aléatoire lorsque le bouton est appuyé, en utilisant la bibliothèque random
+- Ajouter plus de moteurs à ton Explorer HAT
+- Regarder [Créer un jardin numérique avec Carrie Anne](https://www.youtube.com/watch?v=4Fs7y7gZIag) pour plus d'idées
+- Utiliser quatre moteurs pour construire un robot
