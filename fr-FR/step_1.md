@@ -1,15 +1,15 @@
-## What you will make
+## Ce que tu feras
 
-In this resource you will create a digital landscape with your Raspberry Pi by making an electronic garden of spinning flowers, pinwheels, and even some bees! Who said gardening was difficult? Check out [this video](https://www.youtube.com/watch?v=4Fs7y7gZIag) for some more inspiration.
+Dans cette ressource, tu vas créer un paysage numérique avec ton Raspberry Pi en faisant un jardin électronique de fleurs tournantes, de moulins à vent, et même des abeilles ! Qui a dit que le jardinage était difficile ? Regarde [cette vidéo](https://www.youtube.com/watch?v=4Fs7y7gZIag) pour t'inspirer.
 
-## What you will learn
+## Ce que tu vas apprendre
 
-By creating a spinning flower with your Raspberry Pi you will learn:
+En créant une fleur tournante avec ton Raspberry Pi, tu apprendras :
 
-- How to connect a motor to a Raspberry Pi
-- How to make the motor spin with Python code
+- Comment connecter un moteur à un Raspberry Pi
+- Comment faire tourner le moteur avec du code Python
 
-This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
+Ce projet couvre les éléments suivants du [Programme de Créativité Numérique de Raspberry Pi](https://www.raspberrypi.org/curriculum/) :
 
-- [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator)
-- [Use basic digital, analogue, and electromechanical components](https://www.raspberrypi.org/curriculum/physical-computing/creator)
+- [Utiliser des constructions de programmation de base pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator)
+- [Utiliser des composants numériques, analogiques et électromécaniques de base](https://www.raspberrypi.org/curriculum/physical-computing/creator)
