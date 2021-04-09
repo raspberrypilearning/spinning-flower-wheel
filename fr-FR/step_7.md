@@ -1,8 +1,8 @@
-## Using a button to start your spinning program
+## Utiliser un bouton pour démarrer ton programme de rotation
 
-The Explorer HAT also includes several input buttons. Let's use a button to start your spinning flower or pinwheel program when you want it to.
+L'Explorateur HAT comprend également plusieurs boutons d'entrée. Utilisons un bouton pour démarrer ton programme de fleur tournante ou moulin à vent quand tu le souhaites.
 
-- With your Python program open, navigate to just above `explorerhat.motor.one.forward(100)` and add a line to define a function called `run_motor`. Then, highlight the three lines of code which control the motor and press the `tab` key to indent them. They are now part of the function.
+- Avec ton programme Python ouvert, va au-dessus de `explorerhat.motor.one.forward(100)` et ajoute une ligne pour définir une fonction appelée `run_motor`. Ensuite, mets en surbrillance les trois lignes de code qui contrôlent le moteur et appuie sur la touche `tabulation` pour les indenter. Elles font désormais partie de la fonction.
     
     ```python
     def run_motor(channel, event):
@@ -11,10 +11,10 @@ The Explorer HAT also includes several input buttons. Let's use a button to star
       explorerhat.motor.one.stop()
     ```
 
-- Underneath your function, add a line of code to tell the Explorer HAT to run the function when button one is pressed. This line of code should **not** be indented. Instead, it should be on the far left of the page.
+- Sous ta fonction, ajoute une ligne de code pour dire à l'Explorateur HAT d'exécuter la fonction quand le bouton est appuyé. Cette ligne de code ne doit **pas** être indentée. Au lieu de cela, elle devrait se trouver à l'extrême gauche de la page.
     
     ```python
     explorerhat.touch.one.pressed(run_motor)
     ```
 
-- Save the amended code file and run it by pressing **F5**. Nothing will happen until you press button one on the Explorer HAT. So give it a go: press that button!
+- Enregistre le fichier de code modifié et exécute-le en appuyant sur **F5**. Rien ne se passera tant que tu n'appuieras pas sur un bouton de l'Explorer HAT. Alors donne-lui un coup de main : appuie sur ce bouton !
