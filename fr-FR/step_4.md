@@ -1,21 +1,21 @@
-## Prepare your motor and wheel
+## Préparer ton moteur et ta roue
 
-It is likely that your motors and wheels have been supplied separately and will therefore need to be connected in order for you to use them.
+Il est probable que tes moteurs et roues ont été fournis séparément et devront donc être connectés pour que tu puisses les utiliser.
 
-![Motor and wheel](images/components.png)
+![Moteur et roue](images/components.png)
 
-- Place the wheel on a desk or table. Align the shaft of the motor with the wheel and press it gently until it is about half way into the wheel. If you are using a wheel which does not fit snugly onto the motor shaft, you may need to use a small amount of strong glue to attach it.
+- Place la roue sur un bureau ou une table. Aligne l'arbre du moteur avec la roue et appuie doucement jusqu'à ce qu'il soit à mi-chemin dans la roue. Si tu utilises une roue qui ne tient pas sur l'arbre du moteur, tu devras peut-être utiliser une petite quantité de colle forte pour la fixer.
     
-    ![Attach the motor](images/attach-motor.png)
+    ![Fixer le moteur](images/attach-motor.png)
 
-- Next, take two female-to-male jumper cables and attach the female end to the prongs on the motor. If you are using a motor which does not have attachments for jumper leads already attached, you will need to strip the jumper leads and solder them to the motor's connectors.
+- Ensuite, prends deux câbles de cavalier femelle à mâle et attache l'extrémité femelle aux broches du moteur. Si tu utilises un moteur qui n'a pas d'attaches pour les fils de cavalier déjà connectés, tu devras dénuder les fils de cavalier et les souder aux connecteurs du moteur.
     
-    ![Attach the jumper leads](images/female-jumper-motor.png)
+    ![Fixer les fils de cavalier](images/female-jumper-motor.png)
 
-- Take a paper or plastic cup and, using some scissors or a sharp pencil, make a hole in the middle just a little smaller than the size of the motor.
+- Prends un gobelet en plastique et, à l'aide de ciseaux ou d'un crayon pointu, fais un trou au milieu juste un peu plus petit que la taille du moteur.
 
-- Push your motor into the hole in the cup, so that the wheel sticks out of the bottom and the jumper wires come out of the top.
+- Pousse ton moteur dans le trou du gobelet, de sorte que la roue dépasse du bas et que les fils de cavalier sortent du haut.
 
-- Turn your cup upside down on the table and connect the two jumper wires to your Explorer HAT board. Place one of the male connectors into **Motor 1 +**, and the other adjacent to it, in **Motor 1 -**. In this case it does not matter which way around you connect the wires.
+- Tourne ton gobelet vers le bas sur la table et connecte les deux fils de cavalier à ta carte Explorer HAT. Place l'un des connecteurs mâles dans **Motor 1 +**, et l'autre à côté, dans **Motor 1 -**. Dans ce cas, peu importe de quel côté tu connectes les fils.
     
-    ![Connect the Explorer HAT](images/connect-hat.png)
+    ![Connecter l'Explorer HAT](images/connect-hat.png)
