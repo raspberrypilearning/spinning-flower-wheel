@@ -1,26 +1,26 @@
-## Write code to make the motor turn
+## Écrire le code pour faire tourner le moteur
 
-Once the wheel and motors have been assembled and attached to the Explorer HAT, it is time to program them to do what they were built for... turning!
+Une fois que la roue et les moteurs ont été assemblés et fixés à l'Explorer HAT, il est temps de les programmer pour faire ce pour quoi ils ont été conçu... tourner!
 
-- From the `Programming` menu, open `Python 3 (IDLE)`
+- Depuis le menu `Programmation` , ouvre `Python 3 (IDLE)`
     
-    ![Open Python](images/python3-app-menu.png)
+    ![Ouvrir Python](images/python3-app-menu.png)
 
-- Click **File** > **New File** to create a blank file.
+- Clique sur **Fichier** > **Nouveau fichier** pour créer un fichier vide.
 
-- Begin your code by importing the Explorer HAT Python library needed to control the motor by typing:
+- Commence ton code en important la bibliothèque Explorer HAT nécessaire pour contrôler le moteur en tapant :
     
     ```python
     import explorerhat
     ```
 
-- Underneath that, import the sleep function from the `time` library so that you can add time delays to your program:
+- En dessous, importe la fonction sleep de `time` afin que tu puisses ajouter des délais à ton programme :
     
     ```python
     from time import sleep
     ```
 
-- Now add the sequence of instructions to control the attached motor:
+- Maintenant, ajoute la séquence d'instructions pour contrôler le moteur attaché :
     
     ```python
     explorerhat.motor.one.forward(100)
@@ -28,4 +28,4 @@ Once the wheel and motors have been assembled and attached to the Explorer HAT, 
     explorerhat.motor.one.stop()
     ```
 
-- Save your code and run the program by pressing **F5** on the keyboard. Your program should turn the motor on, which will spin the shaft connected to the wheel for ten seconds. How could you make it spin for longer?
+- Enregistre ton code et exécute le programme en appuyant sur **F5** sur le clavier. Ton programme devrait allumer le moteur, ce qui fera tourner l'arbre connecté à la roue pendant dix secondes. Comment faire pour qu'il tourne plus longtemps ?
