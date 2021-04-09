@@ -1,13 +1,13 @@
-## Decorate your wheel with a flower or pinwheel
+## Décorer ta roue avec une fleur ou un moulin à vent
 
-Now that you have constructed your motor, it is time to decorate it. You can do this by cutting out flower shapes from different coloured paper or felt. Alternatively, you could make an [origami pinwheel out of paper](http://www.wikihow.com/Make-an-Origami-Pinwheel).
+Maintenant que tu as construit ton moteur, il est temps de le décorer. Tu peux le faire en découpant des formes de fleurs à partir de papier ou de feutre de couleur différente. Tu peux également fabriquer un [moulin à vent en papier](http://www.wikihow.com/Make-an-Origami-Pinwheel).
 
-- Place a ball of Blu Tack in the centre of the wheel.
+- Place une boule de Super Glue au centre de la roue.
 
-- Add your flower or pinwheel on top of the Blu Tack, ensuring that it is in the middle.
+- Ajoute ta roue ou moulin à vent au dessus de la Super Glue, en veillant à ce que se soit au milieu.
 
-- Secure the paper in place with a push pin.
+- Fixe le papier avec une punaise.
 
-- You could get really creative with some wire to add insects like bumble bees around the outside! Remember the wheel is going to spin, so how could you take advantage of this in a creative way?
+- Tu peux être très créatif avec du fil de fer pour ajouter des insectes comme des bourdons à l'extérieur ! N'oublie pas que la roue va tourner, alors comment peux-tu en tirer parti de manière créative ?
     
-    ![Flower decorated cup](images/flower-cup.png)
+    ![Gobelet décoré de fleurs](images/flower-cup.png)
