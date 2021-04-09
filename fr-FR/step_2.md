@@ -1,17 +1,17 @@
-## What you will need
+## Ce dont tu auras besoin
 
-### Hardware
+### Matériel
 
 * Explorer HAT Pro
-* 1 x Geared motor (12V 80RPM)
-* 2 x Male-to-female jumper leads
-* 1 x Wheel
+* 1 x Motoréducteur (12V 80RPM)
+* 2 x câbles de cavalier mâle-femelle
+* 1 x Roue
 
-### Software
+### Logiciel
 
-#### Software Installation
+#### Installation du logiciel
 
-To install the software you need to type the following into a terminal window. To open terminal window, click on **Main Menu**, **Accessories** and select **Terminal**:
+Pour installer le logiciel, tu dois taper ce qui suit dans une fenêtre de terminal. Pour ouvrir la fenêtre du terminal, clique sur **Menu principal**, **Accessoires** et sélectionne **Terminal** :
 
 ```bash
 sudo apt-get install python3-explorerhat
