@@ -4,7 +4,7 @@
 
 * Explorer HAT Pro
 * 1 x Geared motor (12V 80RPM)
-* 2 x Male-to-female jumper leads
+* 2 x pin-to-socket jumper leads
 * 1 x Wheel
 
 ### Software
