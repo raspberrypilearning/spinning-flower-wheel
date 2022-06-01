@@ -1,7 +1,8 @@
 ---
 title: Draaiend bloemen- of windmolentje
 hero_image: images/banner.png
-description: Ga aan de slag met motoren en maak een digitale tuin van draaiende bloemen of windmolentjes
+description: Ga aan de slag met motoren en maak een digitale tuin van draaiende bloemen
+  of windmolentjes
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
 theme: violet
 duration: 2
@@ -17,11 +18,15 @@ software: python
 version: 3
 last_tested: 2017/01/01
 steps:
-  - title: Inleiding
-  - title: Wat heb je nodig
-  - title: Bevestig de Explorer HAT aan je Raspberry Pi
-  - title: Bereid je motor en wiel voor
-  - title: Versier je wiel met een bloem of windmolen
-  - title: Schrijf een code om de motor te laten draaien
-  - title: Gebruik een knop om je draaiprogramma te starten
-  - title: Wat kun je verder nog doen?
+- title: Inleiding
+- title: Wat heb je nodig
+- title: Bevestig de Explorer HAT aan je Raspberry Pi
+- title: Bereid je motor en wiel voor
+  completion:
+  - engaged
+- title: Versier je wiel met een bloem of windmolen
+- title: Schrijf een code om de motor te laten draaien
+- title: Gebruik een knop om je draaiprogramma te starten
+  completion:
+  - internal
+- title: Wat kun je verder nog doen?

@@ -17,11 +17,15 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: ಪರಿಚಯ
-  - title: ನಿಮಗೆ ಬೇಕಾದುದು
-  - title: ನಿಮ್ಮ Raspberry Pi ಗೆ Explorer HAT ಅನ್ನು ಲಗತ್ತಿಸಿ
-  - title: ನಿಮ್ಮ ಮೋಟರ್ ಮತ್ತು ಚಕ್ರವನ್ನು ತಯಾರಿಸಿ
-  - title: ನಿಮ್ಮ ಚಕ್ರವನ್ನು ಹೂ ಅಥವಾ ಪಿನ್‌ವೀಲ್‌ನಿಂದ ಅಲಂಕರಿಸಿ
-  - title: ಮೊಟೊರ್ ತಿರುಗುವಂತೆ ಕೋಡ್ (code) ಬರೆಯಿರಿ
-  - title: ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಪ್ರಾರಂಭಿಸಲು ಬಟನ್ (button) ಬಳಸಿ
-  - title: ಮುಂದೆ ಏನು?
+- title: ಪರಿಚಯ
+- title: ನಿಮಗೆ ಬೇಕಾದುದು
+- title: ನಿಮ್ಮ Raspberry Pi ಗೆ Explorer HAT ಅನ್ನು ಲಗತ್ತಿಸಿ
+- title: ನಿಮ್ಮ ಮೋಟರ್ ಮತ್ತು ಚಕ್ರವನ್ನು ತಯಾರಿಸಿ
+  completion:
+  - engaged
+- title: ನಿಮ್ಮ ಚಕ್ರವನ್ನು ಹೂ ಅಥವಾ ಪಿನ್‌ವೀಲ್‌ನಿಂದ ಅಲಂಕರಿಸಿ
+- title: ಮೊಟೊರ್ ತಿರುಗುವಂತೆ ಕೋಡ್ (code) ಬರೆಯಿರಿ
+- title: ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಪ್ರಾರಂಭಿಸಲು ಬಟನ್ (button) ಬಳಸಿ
+  completion:
+  - internal
+- title: ಮುಂದೆ ಏನು?

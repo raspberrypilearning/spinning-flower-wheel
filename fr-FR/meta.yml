@@ -1,7 +1,8 @@
 ---
 title: Fleur Tournante
 hero_image: images/banner.png
-description: Commencer avec des moteurs en créant un jardin numérique de fleurs tournantes ou de moulins à vent
+description: Commencer avec des moteurs en créant un jardin numérique de fleurs tournantes
+  ou de moulins à vent
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
 theme: violet
 duration: 2
@@ -17,11 +18,15 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Ce dont tu auras besoin
-  - title: Attacher l'Explorer HAT à ton Raspberry Pi
-  - title: Préparer ton moteur et ta roue
-  - title: Décorer ta roue avec une fleur ou un moulin à vent
-  - title: Écrire le code pour faire tourner le moteur
-  - title: Utiliser un bouton pour démarrer ton programme de rotation
-  - title: Et ensuite ?
+- title: Introduction
+- title: Ce dont tu auras besoin
+- title: Attacher l'Explorer HAT à ton Raspberry Pi
+- title: Préparer ton moteur et ta roue
+  completion:
+  - engaged
+- title: Décorer ta roue avec une fleur ou un moulin à vent
+- title: Écrire le code pour faire tourner le moteur
+- title: Utiliser un bouton pour démarrer ton programme de rotation
+  completion:
+  - internal
+- title: Et ensuite ?

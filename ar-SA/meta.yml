@@ -1,7 +1,8 @@
 ---
 title: عجلة الزهور الدوارة
 hero_image: images/banner.png
-description: ابدأ بالمحركات من خلال إنشاء حديقة رقمية من الزهور الدوارة أو دواليب الهواء
+description: ابدأ بالمحركات من خلال إنشاء حديقة رقمية من الزهور الدوارة أو دواليب
+  الهواء
 original_url: https://raspberrypi.org/learning/spinning-flower-wheel
 theme: violet
 duration: 2
@@ -17,11 +18,15 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: ما ستحتاج إليه
-  - title: قم بتوصيل Explorer HAT بـ Raspberry Pi الخاص بك
-  - title: جهز المحرك والعجلة الخاصة بك
-  - title: زين عجلتك بالزهور أو المروحة
-  - title: اكتب التعليمات البرمجية لجعل المحرك يستدير
-  - title: استخدام زر لبدء تشغيل برنامج الدوران الخاص بك
-  - title: ما التالي؟
+- title: المقدمة
+- title: ما ستحتاج إليه
+- title: قم بتوصيل Explorer HAT بـ Raspberry Pi الخاص بك
+- title: جهز المحرك والعجلة الخاصة بك
+  completion:
+  - engaged
+- title: زين عجلتك بالزهور أو المروحة
+- title: اكتب التعليمات البرمجية لجعل المحرك يستدير
+- title: استخدام زر لبدء تشغيل برنامج الدوران الخاص بك
+  completion:
+  - internal
+- title: ما التالي؟
