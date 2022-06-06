@@ -20,11 +20,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Attach the Explorer HAT to your Raspberry Pi
 - title: Prepare your motor and wheel
+  completion:
+  - engaged
 - title: Decorate your wheel with a flower or pinwheel
 - title: Write code to make the motor turn
-  completion: internal
 - title: Using a button to start your spinning program
+  completion:
+  - internal
 - title: What next?

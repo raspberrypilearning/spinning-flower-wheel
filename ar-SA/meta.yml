@@ -20,11 +20,13 @@ last_tested: 2017-01-01
 steps:
 - title: المقدمة
 - title: ما ستحتاج إليه
-  completion: engaged
 - title: قم بتوصيل Explorer HAT بـ Raspberry Pi الخاص بك
 - title: جهز المحرك والعجلة الخاصة بك
+  completion:
+  - engaged
 - title: زين عجلتك بالزهور أو المروحة
 - title: اكتب التعليمات البرمجية لجعل المحرك يستدير
-  completion: internal
 - title: استخدام زر لبدء تشغيل برنامج الدوران الخاص بك
+  completion:
+  - internal
 - title: ما التالي؟

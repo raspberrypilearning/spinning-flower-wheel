@@ -20,11 +20,13 @@ last_tested: 2017-01-01
 steps:
 - title: परिचय
 - title: आपल्याला कशाची आवश्यकता असेल
-  completion: engaged
 - title: आपल्या Raspberry Pi वर Explorer HAT जोडा
 - title: आपली मोटर आणि चाक तयार करा
+  completion:
+  - engaged
 - title: आपले चाक फूल किंवा पिनव्हीलने सजवा
 - title: मोटर वळविण्या साठी कोड लिहा
-  completion: internal
 - title: बटण चा उपयोग करुन आपला स्पिन्निंग कार्यक्रम प्रारंभ करा
+  completion:
+  - internal
 - title: पुढे काय?

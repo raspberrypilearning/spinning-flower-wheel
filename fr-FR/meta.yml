@@ -20,11 +20,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: Ce dont tu auras besoin
-  completion: engaged
 - title: Attacher l'Explorer HAT à ton Raspberry Pi
 - title: Préparer ton moteur et ta roue
+  completion:
+  - engaged
 - title: Décorer ta roue avec une fleur ou un moulin à vent
 - title: Écrire le code pour faire tourner le moteur
-  completion: internal
 - title: Utiliser un bouton pour démarrer ton programme de rotation
+  completion:
+  - internal
 - title: Et ensuite ?

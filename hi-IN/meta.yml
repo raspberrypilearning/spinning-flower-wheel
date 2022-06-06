@@ -20,11 +20,13 @@ last_tested: 2017-01-01
 steps:
 - title: परिचय
 - title: आपको किन चीज़ों की जरूरत होगी
-  completion: engaged
 - title: एक्स्प्लोरर हैट (Explorer HAT) को Raspberry Pi में जोड़ें
 - title: अपनी मोटर और पहिया तैयार करें
+  completion:
+  - engaged
 - title: अपने पहिये को फूल या पिनव्हील से सजाएँ
 - title: मोटर चालू करने के लिए कोड लिखें
-  completion: internal
 - title: बटन का उपयोग करके अपना घूमने वाला प्रोग्राम शुरू करे
+  completion:
+  - internal
 - title: आगे क्या है?

@@ -20,11 +20,13 @@ last_tested: 2017/01/01
 steps:
 - title: Inleiding
 - title: Wat heb je nodig
-  completion: engaged
 - title: Bevestig de Explorer HAT aan je Raspberry Pi
 - title: Bereid je motor en wiel voor
+  completion:
+  - engaged
 - title: Versier je wiel met een bloem of windmolen
 - title: Schrijf een code om de motor te laten draaien
-  completion: internal
 - title: Gebruik een knop om je draaiprogramma te starten
+  completion:
+  - internal
 - title: Wat kun je verder nog doen?
